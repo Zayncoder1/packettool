@@ -1,6 +1,6 @@
 # Packet Tool
 
-Client-side packet tracker for **Minecraft 1.21.1 (Fabric)**.
+Client-side packet tracker for **Minecraft (Fabric)**.
 
 Packet Tool adds a simple in-game UI that lists inbound/outbound packets in real time so you can see what your client is sending and receiving.
 
@@ -20,7 +20,7 @@ Packet Tool adds a simple in-game UI that lists inbound/outbound packets in real
 
 ## Install
 
-1. Install **Fabric Loader** for 1.21.1.
+1. Install **Fabric Loader** for Your Minecraft Version.
 2. Install **Fabric API**.
 3. Drop the jar into your `mods` folder.
 
