@@ -20,9 +20,10 @@ Packet Tool adds a simple in-game UI that lists inbound/outbound packets in real
 
 ## Install
 
-1. Install **Fabric Loader** for Your Minecraft Version.
-2. Install **Fabric API**.
-3. Drop the jar into your `mods` folder.
+1. Download the jar from Github Releases
+2. Install **Fabric Loader** for Your Minecraft Version.
+3. Install **Fabric API**.
+4. Drop the jar into your `mods` folder.
 
 ## License
 
