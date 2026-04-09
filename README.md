@@ -20,7 +20,7 @@ Packet Tool adds a simple in-game UI that lists inbound/outbound packets in real
 
 ## Install
 
-1. Download the jar from Github Releases
+1. Download the jar from (Github Releases) [https://github.com/Zayncoder1/packettool/releases]
 2. Install **Fabric Loader** for Your Minecraft Version.
 3. Install **Fabric API**.
 4. Drop the jar into your `mods` folder.
